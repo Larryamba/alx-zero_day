@@ -1,3 +1,7 @@
-ALX
+ALX 
 #!/bin/bash
+<<<<<<< HEAD
 echo  "ALX school is cool!" 
+=======
+echo  "ALX School" 
+>>>>>>> origin/update_script
